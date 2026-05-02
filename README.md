@@ -1,27 +1,23 @@
 <h1 align="center">Hi, I'm Shehara Samaraweera 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Learner;Computer+Science+Undergraduate;Future+AI+%26+ML+Explorer" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer+in+Progress;MERN+Stack+Learner;Computer+Science+Undergraduate;AI+%26+ML+Explorer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate in Computer Science and Technology at Uva Wellassa University of Sri Lanka  
-- 🌱 Currently learning **Frontend Development (React.js)**  
-- 💻 Beginner in **Full Stack Development (MERN Stack path)**  
-- 🔧 Planning to start **Backend Development (Node.js, Express, MongoDB)** soon  
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**  
-- 📚 Focused on building strong fundamentals through real projects  
+- 🎓 Computer Science Undergraduate (Sri Lanka)
+- 🌱 Currently focused on **React.js and modern frontend development**
+- 💻 Learning **Full Stack Development (MERN Stack path)**
+- 🔧 Exploring backend development with **Node.js, Express, MongoDB**
+- 🤖 Interested in **Artificial Intelligence and Machine Learning**
+- 📚 Building strong fundamentals through real-world projects (2026 focus)
 
 ---
 
-## 📍 Current Learning Path
+## 📍 2026 Learning Roadmap
 
 <p align="center">
 
@@ -29,21 +25,44 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
 
-🟡 MERN Stack (in progress)  
-⚪ Backend Development (not started yet)  
+---
+
+## 🎯 2026 Projects
+
+### 🔹 Beginner Level Projects
+- Simple Java console applications  
+- Calculator and logic-based programs  
+- Basic HTML/CSS portfolio pages  
+
+### 🔹 Web Development Projects
+- Personal portfolio website (React)
+- To-do list application (React + Local Storage)
+- Simple blog UI design
+
+### 🔹 Full Stack Projects (MERN)
+- Task management system (CRUD app)
+- Student management system
+- Basic e-commerce prototype
+
+### 🔹 Future Projects
+- AI-based study assistant (planned)
+- Smart recommendation system
+- Real-time chat application
 
 ---
 
-## 🎯 Future Goals
+## 📈 Learning Progress
 
-- Build full-stack MERN applications  
-- Develop REST APIs with Node.js & Express  
-- Learn scalable backend architecture  
-- Explore Artificial Intelligence & Machine Learning  
-- Contribute to real-world software projects  
+- 🟢 Frontend Development – In Progress  
+- 🟡 Backend Development – Starting Soon  
+- ⚪ Full Stack Projects – Planned for 2026  
+- ⚪ AI/ML – Early Exploration Stage  
 
 ---
 
@@ -54,7 +73,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/sheha_ra.s?igsh=aG4wcW5pbXFrbHNp">
@@ -86,4 +105,5 @@
 
 ## 🌱 Closing Note
 
-I am currently focused on building a strong foundation in web development and improving step by step through practice, consistency, and real projects.
+2026 is focused on consistent learning, real project building, and improving step by step as a developer.  
+Every project here represents progress, not perfection.
